@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ExceptionHandling
+Bundle-SymbolicName: ExceptionHandling
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: ExceptionHandling
+Bundle-RequiredExecutionEnvironment: JavaSE-17
